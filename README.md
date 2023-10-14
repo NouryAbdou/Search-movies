@@ -1,3 +1,11 @@
+### Copyright
+
+# Intro
+
+This project will help you to learn the concept of [Virtual DOM](https://legacy.reactjs.org/docs/hooks-effect.html) in react
+You can clone it on your computer and test the render.
+Don't hesitate to add more feature for fun
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
